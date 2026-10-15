@@ -35,6 +35,9 @@
 - <b>Azure Based Palo-Alto Firewall Lab with DMZ Web Server Access</b>
    -[(https://github.com/alvni1/Azure-Based-Palo-Alto-Firewall-Lab-with-DMZ-Web-Server-Access/tree/main)](https://github.com/alanimj/Azure-Based-Palo-Alto-Firewall-Lab-with-DMZ-Web-Server-Access)
 
+- <b>Enterprise-Network-Linux-Infrastructure-Lab</b>
+  -[[(https://github.com/alvni1/ActiveDirectoryLab)](https://github.com/alanimj/ActiveDirectoryLab)](https://github.com/alanimj/Enterprise-Network-Linux-Infrastructure-Lab)
+
   
  
 
